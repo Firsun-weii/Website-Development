@@ -1,0 +1,23 @@
+#banner_left{
+	width: 400px;
+	height: 250px;
+	background-image: url(../images/banner_left_bg.png);
+	background-size: 400px 250px;
+	float: left;
+}
+
+#banner_middle{
+	width: 400px;
+	height: 250px;
+	background-image: url(../images/banner_middle_bg.png);
+	background-size: 400px 250px;
+	float: left;
+}
+
+#banner_right{
+	width: 300px;
+	height: 250px;
+	background-image: url(../images/banner_right_bg.png);
+    background-size: 300px 250px;
+    float: left;
+}

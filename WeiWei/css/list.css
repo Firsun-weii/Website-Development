@@ -1,0 +1,183 @@
+h1{
+	color: yellow;
+}
+
+
+.content{
+	width: 1480px;
+	height: 900px;
+	margin: 15px;
+}
+
+#content_left{
+	width: 1085px;
+	height: 700px;
+	float: left;
+}
+
+.niandai{
+	width: 500px;
+	height: 300px;
+	float: left;
+	background-image: url(../images/niandai.png);
+	margin: 20px;
+}
+
+.niandai h2{
+	text-align: center;
+	line-height: 80px;
+}
+
+.niandai ul{
+    
+}
+
+.niandai ul li{
+    margin: 20px;
+    margin-left: 50px;
+}
+
+.niandai h5{
+	display: inline;
+	float: right;
+	margin-right: 80px;
+}
+.niandai ul li a{
+	color: #000033;
+    font-family: '华文仿宋';
+    color: blue;
+}
+
+
+
+h2 a{
+	color: #CC00CC;
+	font-family: '华文彩云';
+}
+
+#content_right{
+	width: 395px;
+	height: 700px;
+	
+	
+	float: left;
+}
+
+.daxue{
+	width: 395px;
+	height: 300px;
+	margin-top: 20px;
+	background-image: url(../images/content_bg.png);
+
+}
+
+.daxue1{
+	width: 395px;
+	height: 300px;
+	margin-top: 40px;
+	
+	background-image: url(../images/content_bg.png);
+
+}
+
+.daxue h2{
+	text-align: center;
+}
+
+.daxue li{
+	margin: 20px;
+	margin-left: 110px;
+}
+
+#top{
+	margin-bottom: 150px;
+}
+
+.weimei1{
+	width: 200px;
+	height: 200px;
+	margin-left: 20px;
+	margin-right: 25px;
+	background-image: url(../images/weimei1.jpg);
+	float: left;
+}
+
+h1{
+	color: #009933;
+	font-family: '华文琥珀';
+}
+
+.weimei1 h1{
+	line-height: 200px;
+	text-align: center;
+}
+
+.weimei2{
+	width: 200px;
+	height: 200px;
+	margin-left: 20px;
+	margin-right: 25px;
+	background-image: url(../images/weimei2.jpg);
+	float: left;
+}
+
+.weimei2 h1{
+	line-height: 200px;
+	text-align: center;
+}
+
+.weimei3{
+	width: 200px;
+	height: 200px;
+	margin-left: 20px;
+	margin-right: 25px;
+	background-image: url(../images/weimei3.jpg);
+	float: left;
+}
+
+.weimei3 h1{
+	line-height: 200px;
+	text-align: center;
+}
+
+.weimei4{
+	width: 200px;
+	height: 200px;
+	margin-left: 20px;
+	margin-right: 25px;
+	background-image: url(../images/weimei4.jpg);
+	float: left;
+}
+
+.weimei4 h1{
+	line-height: 200px;
+	text-align: center;
+}
+
+.weimei5{
+	width: 200px;
+	height: 200px;
+	margin-left: 20px;
+	margin-right: 25px;
+	background-image: url(../images/weimei5.jpg);
+	float: left;
+}
+
+.weimei5 h1{
+	line-height: 200px;
+	text-align: center;
+}
+
+.weimei6{
+	width: 210px;
+	height: 200px;
+	margin-left: 20px;
+	margin-right: 25px;
+	background-image: url(../images/weimei6.jpg);
+	float: left;
+}
+
+.weimei6 h1{
+	line-height: 200px;
+	text-align: center;
+}

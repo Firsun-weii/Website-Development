@@ -1,0 +1,84 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0;
+}
+
+ul 
+
+
+
+body{
+	background-image: url(../images/bg.gif);
+	background-repeat: -x;
+}
+
+/*
+网页头部样式
+*/
+.header{
+	width: 1005px;
+	height:  500px;
+	/*background-color: #ff0000;*/
+}
+
+.nav{
+	width: 1000px;
+	height:  34px;
+	/*background-color: bule;*/
+}
+
+.nav ul{
+	list-style: none;
+}
+
+.nav ul li{
+	float: left;
+	margin-right: 70px;
+}
+
+.nav ul li a{
+	color: #ffffff;
+	text-decoration: none; 
+}
+
+.logo{
+	width: 1000px;
+	height: 90px;
+}
+
+.logo input{
+	height:  30px;
+	margin-top: 20px;
+	margin-right: 3px;
+	float: right;
+}
+
+.logo input[type='button']{
+	margin-right: 50px;
+	width:  43px;
+	height: 34px;
+	background-image: url(../images/ss.gif);
+}
+
+.banner{
+
+}
+/*
+网页内容样式
+*/
+.content{
+	width: 1005px;
+	height:  500px;
+	/*background-color: #00ff00;*/
+}
+
+.loggo{
+	width:
+}
+
+.footer{
+	width: 1005px;
+	height:  500px;
+	/*background-color: #0000ff;*/
+}
