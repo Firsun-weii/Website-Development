@@ -39,6 +39,10 @@ body{
 	float: left;
 }
 
+h6{
+	margin-left: 100px;
+}
+
 #input{
 	width: 341px;
 	height: 192px;
