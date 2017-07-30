@@ -1,6 +1,6 @@
 .content{
 	width: 1500px;
-	height: 450px;
+	height: 2580px;
 	margin: 15px;
 }
 
@@ -39,11 +39,30 @@
 
 #neirong{
 	width: 1450px;
-	height: 450px;
+	height: 530px;
 	margin: 20px;
 	margin-left: 10px;
 	background-image: url(../images/content1.jpg);
-	background-size: 1450px 450px;
+	background-size: 1450px 530px;
+	float: left;
+}
+
+#ziji{
+    width: 450px;
+    height: 400px;
+    margin-left: 90px;
+    margin-top: 70px;
+    float: left;
+    border: 2px red solid;
+}
+
+#ziji img{
+	width: 450px;
+	height: 400px;
+}
+
+#neirong1{
+	width: 900px;
 	float: left;
 }
 
@@ -57,8 +76,9 @@
 }
 
 #neirong p{
-	margin-left: 135px;
-	margin-right: 120px;
+	/*margin-left: 135px;*/
+	margin-left: 15px;
+	/*margin-right:130px;*/
 	text-indent: 2em;
 	font-size: 20px;
 	color: #0000FF;
@@ -67,13 +87,13 @@
 
 #pinglun{
 	width: 325px;
-	height: 600px;
+	height: 1300px;
 	margin:20px;
 	margin-left: 5px;
 	margin-right: 10px;
 	float: left;
 	background-image: url(../images/pinglun.gif);
-	background-size: 325px 600px;
+	background-size: 325px 800px;
 }
 
 #pinglun h2{
@@ -109,4 +129,101 @@ h2{
 
 p{
 	font-family: '华文楷体';
+}
+
+#jingli{
+	width: 1450px;
+	height: 650px;
+	margin: 20px;
+	margin-left: 10px;
+	background-image: url(../images/pinglun.gif);
+	background-size: 1450px 650px;
+	float: left;
+}
+
+#jingli h1{
+	text-align: center;
+	margin-top: 60px;
+
+}
+
+#pian{
+	width: 450px;
+	height: 550px;
+	margin-left: 110px;
+	margin-top: 50px;
+	border: 2px yellow solid;
+	float: left;
+}
+
+#pian img{
+	width: 450px;
+	height: 550px;
+}
+
+#zi{
+	width: 800px;
+	height: 650px;
+	margin-left: 20px;
+	float: left;
+}
+
+#zi ol{
+	list-style-position: inside;
+	margin-right: 45px;
+}
+
+#zi ol li{
+	margin-bottom: 12px;
+	font-family: '宋体';
+	color: red;
+}
+
+#wenti{
+	width: 1450px;
+	height: 1290px;
+	margin: 20px;
+	margin-left: 10px;
+	background-image: url(../images/kuang9.jpg);
+	background-size: 1450px 1290px;
+	float: left;
+}
+
+#wenti h1{
+	text-align: center;
+	margin-top: 60px;
+
+}
+
+#pian1{
+	width: 450px;
+	height: 1170px;
+	margin-left: 110px;
+	margin-top: 40px;
+	border: 2px yellow solid;
+	float: left;
+}
+
+#pian1 img{
+	width: 450px;
+	height: 1170px;
+}
+
+#zi1{
+	width: 800px;
+	height: 650px;
+	margin-left: 20px;
+	float: left;
+}
+
+#zi1 ol{
+	list-style-position: inside;
+	margin-right: 45px;
+}
+
+#zi1 ol li{
+	margin-bottom: 12px;
+	font-family: '楷体';
+	color: yellow;
+	font-size: 20px;
 }
