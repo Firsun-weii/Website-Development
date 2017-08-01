@@ -79,8 +79,10 @@
 	/*margin-left: 135px;*/
 	margin-left: 15px;
 	/*margin-right:130px;*/
+	line-height: 33px;
 	text-indent: 2em;
-	font-size: 20px;
+	font-size: 16px;
+	margin-right: 49px;
 	color: #0000FF;
 	/*font-family: '华文行楷';*/
 }
