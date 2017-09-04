@@ -1,6 +1,6 @@
 .content{
 	width: 1500px;
-	height: 450px;
+	height: 5120px;
 	margin: 15px;
 }
 
@@ -109,4 +109,97 @@ h2{
 
 p{
 	font-family: '华文楷体';
+}
+
+.daili{
+	width: 1400px;
+	height: 550px;
+	margin-left: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.tupian{
+	width: 258px;
+	height: 550px;
+	float: left;
+	border: 2px blue solid;
+}
+
+.tupian img{
+	margin-top: 4px;
+	width: 250px;
+	height: 480px; 
+	margin-left: 4px;
+}
+
+.tupian h2{
+	text-align: center;
+	padding-top: 15px;
+}
+
+.jianjie{
+	width: 1020px;
+	height: 554px;
+	margin-left: 20px;
+	background-image: url(../images/niandai.png);
+	background-size: 1020px 550px;
+	float: left;
+}
+
+.jianjie h3{
+	margin-left: 55px;
+	margin-top: 30px;
+	font-family: '宋体';
+	color: blue;
+}
+
+.jianjie p{
+	margin-left: 54px;
+	text-indent: 2em;
+	margin-right: 220px;
+	font-size: 17px;
+	color: #3300FF;
+	font-family: '楷体';
+	line-height: 25px;
+
+}
+
+
+
+.jianjie2{
+	width: 1020px;
+	height: 554px;
+	margin-left: 20px;
+	background-image: url(../images/kuang.jpg);
+	background-size: 1020px 550px;
+	float: left;
+}
+
+.jianjie2 h3{
+	margin-left: 55px;
+	margin-top: 30px;
+	font-family: '宋体';
+	color: blue;
+}
+
+.jianjie2 p{
+	margin-left: 54px;
+	text-indent: 2em;
+	margin-right: 220px;
+	font-size: 17px;
+	color: red;
+	font-family: '楷体';
+	line-height: 28px;
+	font-weight: bold;
+
+}
+
+.goumai{
+	margin-left: 60px;
+	margin-top: 50px;
+	color: red;
+	font-family: '宋体';
+	font-style: 800px;
+	font-weight: 900;
 }
